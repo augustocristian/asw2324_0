@@ -25,6 +25,6 @@
     },
     "devDependencies": {
         "jest": "^30.0.5",
-        "supertest": "^6.3.4"
+        "supertest": "^7.1.4"
     }
 }

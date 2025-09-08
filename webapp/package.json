@@ -50,6 +50,6 @@
     "mongodb-memory-server": "^10.2.0",
     "puppeteer": "^21.7.0",
     "serve": "^14.2.1",
-    "start-server-and-test": "^2.0.13"
+    "start-server-and-test": "^2.1.0"
   }
 }

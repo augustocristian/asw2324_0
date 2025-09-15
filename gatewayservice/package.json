@@ -18,7 +18,7 @@
     },
     "homepage": "https://github.com/pglez82/asw2324_0#readme",
     "dependencies": {
-        "axios": "^1.11.0",
+        "axios": "^1.12.2",
         "cors": "^2.8.5",
         "express": "^5.1.0",
         "express-prom-bundle": "^7.0.0"

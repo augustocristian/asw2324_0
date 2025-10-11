@@ -21,7 +21,7 @@ jobs:
     - run: npm --prefix gatewayservice test -- --coverage
     - run: npm --prefix webapp test -- --coverage
     - name: Analyze with SonarCloud
-      uses: sonarsource/sonarcloud-github-action@master
+      uses: SonarSource/sonarqube-scan-action@fd88b7d7ccbaefd23d8f36f73b59db7a3d246602 # V.6.0 lastest 05/10/2025
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
